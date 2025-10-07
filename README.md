@@ -16,6 +16,11 @@
 #### [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447) (NeurIPS 2025) [[Code]](https://github.com/Gsunshine/meanflow)
 * Compute straight marginal flow from conditional flow to achieve one-step inference.
 
+### Applications
+#### Dynamic Typography: Bringing Text to Life via Video Diffusion Prior (ICCV 2025) [[Homepage]](https://animate-your-word.github.io/demo/) [[Paper]](https://arxiv.org/pdf/2404.11614) [[Code]](https://github.com/zliucz/animate-your-word)
+* Generate a dynamic typography based on video foundation model, optimized by SDS.
+
+https://animate-your-word.github.io/demo/dynamic_typography.mp4
 
 ## Tools
 ### Conditioned Generation
