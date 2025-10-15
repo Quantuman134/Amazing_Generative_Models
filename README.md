@@ -28,3 +28,5 @@
 ### Conditioned Generation
 1. [ControlNet++](https://github.com/xinsir6/ControlNetPlus)
 A novel ControlNet Architecture and also a good practice, the repo provide 10+ pre-trained conditioned generative model.
+
+## Development
