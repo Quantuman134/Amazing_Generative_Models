@@ -24,6 +24,10 @@
 #### ReCamMaster: Camera-Controlled Generative Rendering from A Single Video (ICCV 2025) [[Homepage]](https://jianhongbai.github.io/ReCamMaster/) [[Paper]](https://arxiv.org/pdf/2503.11647) [[Code]](https://github.com/KwaiVGI/ReCamMaster)
 * Generating video in novel camera trajactory from reference video clips. (Btw, the clips in demo are nice)
 
+### Generating in Other Ways
+#### Discrete Distribution Network (ICLR 2025) [[Homepage]](https://discrete-distribution-networks.github.io/) [[Paper]](https://arxiv.org/abs/2401.00036) [[Code]](https://github.com/DIYer22/discrete_distribution_networks) [[Demo]](https://ddn-coloring-demo.diyer22.com/)
+* Generating results by selecting candidate from cascade hierarchy network layers.
+
 ## Tools
 ### Conditioned Generation
 1. [ControlNet++](https://github.com/xinsir6/ControlNetPlus)
