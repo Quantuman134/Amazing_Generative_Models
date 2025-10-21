@@ -27,6 +27,14 @@
 #### SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling (ICCV 2025) [[Homepage]](https://xianglonghe.github.io/TripoSF/) [[Paper]](https://xianglonghe.github.io/TripoSF/assets/triposf.pdf) [[Code]](https://github.com/VAST-AI-Research/TripoSF)
 * The SOTA work for sparse-structured (or VAE-based) latent representation.
 
+### Conditional Generation
+#### LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing (ICCV 2025) [[Homepage]](https://intelligolabs.github.io/lots/) [[Paper]](https://arxiv.org/abs/2507.22627) [[Code]](https://github.com/intelligolabs/lots)
+* They build the condition with multiple image layers of sketch and text condition, and keep them as seperate conditions jointly control the image generation. (Maybe this work just for garments? but it can inspire other layer editing)
+
+### Editing
+#### FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models (ICCV 2025) [[Homepage]](https://matankleiner.github.io/flowedit/) [[Paper]](https://arxiv.org/abs/2412.08629) [[Code]](https://github.com/fallenshock/FlowEdit)
+* Inversion-free generative editing, modeling the editing flow on data manifold, avoiding inversing the image to noise.
+
 ### Video in 3D
 #### ReCamMaster: Camera-Controlled Generative Rendering from A Single Video (ICCV 2025) [[Homepage]](https://jianhongbai.github.io/ReCamMaster/) [[Paper]](https://arxiv.org/pdf/2503.11647) [[Code]](https://github.com/KwaiVGI/ReCamMaster)
 * Generating video in novel camera trajactory from reference video clips. (Btw, the clips in demo are nice)
