@@ -23,6 +23,10 @@
 #### Dynamic Typography: Bringing Text to Life via Video Diffusion Prior (ICCV 2025) [[Homepage]](https://animate-your-word.github.io/demo/) [[Paper]](https://arxiv.org/pdf/2404.11614) [[Code]](https://github.com/zliucz/animate-your-word) [[Demo]](https://animate-your-word.github.io/demo/dynamic_typography.mp4)
 * Generate a dynamic typography based on video foundation model, optimized by SDS.
 
+### 3D Generation & Representation
+#### SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling (ICCV 2025) [[Homepage]](https://xianglonghe.github.io/TripoSF/) [[Paper]](https://xianglonghe.github.io/TripoSF/assets/triposf.pdf) [[Code]](https://github.com/VAST-AI-Research/TripoSF)
+* The SOTA work for sparse-structured (or VAE-based) latent representation.
+
 ### Video in 3D
 #### ReCamMaster: Camera-Controlled Generative Rendering from A Single Video (ICCV 2025) [[Homepage]](https://jianhongbai.github.io/ReCamMaster/) [[Paper]](https://arxiv.org/pdf/2503.11647) [[Code]](https://github.com/KwaiVGI/ReCamMaster)
 * Generating video in novel camera trajactory from reference video clips. (Btw, the clips in demo are nice)
