@@ -19,6 +19,9 @@
 #### Diffusion Transformers with Representation Autoencoders [[Homepage]](https://rae-dit.github.io/) [[Paper]](https://arxiv.org/abs/2510.11690) [[Code]](https://github.com/bytetriper/RAE)
 * New form of image encoder for generative model, leverage strong semantic representation from pretrained foundation image encoder like DINOv2.
 
+#### On the Edge of Memorization in Diffusion Models [[Paper]](https://openreview.net/pdf?id=rWW5wdECl8)
+* When do diffusion models generate and when do diffusion models memorize?
+
 ### Applications
 #### Dynamic Typography: Bringing Text to Life via Video Diffusion Prior (ICCV 2025) [[Homepage]](https://animate-your-word.github.io/demo/) [[Paper]](https://arxiv.org/pdf/2404.11614) [[Code]](https://github.com/zliucz/animate-your-word) [[Demo]](https://animate-your-word.github.io/demo/dynamic_typography.mp4)
 * Generate a dynamic typography based on video foundation model, optimized by SDS.
